@@ -1,0 +1,30 @@
+_repo: Over-There--War-Scenes-on-the-Western-Front_11641
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Bennett, Arnold, 1867-1931'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, British'
+- GITenberg
+title: 'Over There: War Scenes on the Western Front'
+url: http://www.gutenberg.org/ebooks/11641
